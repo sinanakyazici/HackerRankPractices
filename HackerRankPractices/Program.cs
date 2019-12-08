@@ -6,7 +6,8 @@ namespace HackerRankPractices
     {
         public static void Main()
         {
-            JumpingOnTheClouds.Run();
+            // JumpingOnTheClouds.Run();
+            RepeatedString.Run();
 
             Console.ReadLine();
         }

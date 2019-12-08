@@ -7,14 +7,13 @@ namespace HackerRankPractices
 {
     public class JumpingOnTheClouds
     {
-        // Complete the jumpingOnClouds function below.
         public static void Run()
         {
             var sw = Stopwatch.StartNew();
             var i = jumpingOnClouds(new[] { 0, 0, 0, 1, 0, 0 });
             sw.Stop();
             
-            Console.WriteLine($"Result : {i}, Elapsed Seconds : {sw.ElapsedMilliseconds / 1000}");
+            Console.WriteLine($"Result : {i}, Elapsed Milliseconds : {sw.ElapsedMilliseconds}");
         }
 
         static int jumpingOnClouds(int[] c)
@@ -22,7 +21,6 @@ namespace HackerRankPractices
             List<int> results = new List<int>();
             Recursive(c, 0, 0, results);
             return results.Min();
-
         }
 
         private static void Recursive(int[] c, int index, int step, List<int> results)
