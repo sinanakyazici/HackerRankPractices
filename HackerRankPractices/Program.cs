@@ -7,7 +7,8 @@ namespace HackerRankPractices
         public static void Main()
         {
             // JumpingOnTheClouds.Run();
-            RepeatedString.Run();
+            // RepeatedString.Run();
+            HourglassTwoDimArray.Run();
 
             Console.ReadLine();
         }
