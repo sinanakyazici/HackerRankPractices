@@ -1,5 +1,6 @@
 ﻿using System;
 using HackerRankPractices.InterviewPreparationKit.Arrays;
+using HackerRankPractices.InterviewPreparationKit.DictionariesAndHashmaps;
 using HackerRankPractices.InterviewPreparationKit.WarmUpChallenges;
 
 namespace HackerRankPractices
@@ -17,6 +18,7 @@ namespace HackerRankPractices
             // NewYearChaos.Run();
             // MinimumSwaps2.Run();
             // ArrayManipulation.Run();
+            HashTablesRansomNote.Run();
 
             Console.ReadLine();
         }
