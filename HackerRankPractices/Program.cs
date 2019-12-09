@@ -11,7 +11,8 @@ namespace HackerRankPractices
             // HourglassTwoDimArray.Run();
             // LeftRotationArray.Run();
             // NewYearChaos.Run();
-            MinimumSwaps2.Run();
+            // MinimumSwaps2.Run();
+            ArrayManipulation.Run();
 
             Console.ReadLine();
         }
