@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-namespace HackerRankPractices
+namespace HackerRankPractices.InterviewPreparationKit.WarmUpChallenges
 {
     public class JumpingOnTheClouds
     {

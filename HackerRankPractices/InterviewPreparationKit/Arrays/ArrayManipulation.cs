@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace HackerRankPractices
+namespace HackerRankPractices.InterviewPreparationKit.Arrays
 {
     public class ArrayManipulation
     {

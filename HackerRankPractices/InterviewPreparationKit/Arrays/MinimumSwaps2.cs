@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Linq;
 
-namespace HackerRankPractices
+namespace HackerRankPractices.InterviewPreparationKit.Arrays
 {
     public class MinimumSwaps2
     {
