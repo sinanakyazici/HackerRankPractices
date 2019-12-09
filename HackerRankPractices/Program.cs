@@ -18,7 +18,8 @@ namespace HackerRankPractices
             // NewYearChaos.Run();
             // MinimumSwaps2.Run();
             // ArrayManipulation.Run();
-            HashTablesRansomNote.Run();
+            // HashTablesRansomNote.Run();
+            TwoStrings.Run();
 
             Console.ReadLine();
         }
