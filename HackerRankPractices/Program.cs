@@ -19,7 +19,8 @@ namespace HackerRankPractices
             // MinimumSwaps2.Run();
             // ArrayManipulation.Run();
             // HashTablesRansomNote.Run();
-            TwoStrings.Run();
+            // TwoStrings.Run();
+            SherlockAndAnagrams.Run();
 
             Console.ReadLine();
         }
