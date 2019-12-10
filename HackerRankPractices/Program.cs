@@ -20,7 +20,8 @@ namespace HackerRankPractices
             // ArrayManipulation.Run();
             // HashTablesRansomNote.Run();
             // TwoStrings.Run();
-            SherlockAndAnagrams.Run();
+            // SherlockAndAnagrams.Run();
+            CountTriplets.Run();
 
             Console.ReadLine();
         }
