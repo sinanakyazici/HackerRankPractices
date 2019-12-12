@@ -24,7 +24,8 @@ namespace HackerRankPractices
             // SherlockAndAnagrams.Run();
             // CountTriplets.Run();
             // FrequencyQueries.Run();
-            BubbleSort.Run();
+            // BubbleSort.Run();
+            MarkAndToys.Run();
 
             Console.ReadLine();
         }
