@@ -1,6 +1,7 @@
 ﻿using System;
 using HackerRankPractices.InterviewPreparationKit.Arrays;
 using HackerRankPractices.InterviewPreparationKit.DictionariesAndHashmaps;
+using HackerRankPractices.InterviewPreparationKit.Sorting;
 using HackerRankPractices.InterviewPreparationKit.WarmUpChallenges;
 
 namespace HackerRankPractices
@@ -22,7 +23,8 @@ namespace HackerRankPractices
             // TwoStrings.Run();
             // SherlockAndAnagrams.Run();
             // CountTriplets.Run();
-            FrequencyQueries.Run();
+            // FrequencyQueries.Run();
+            BubbleSort.Run();
 
             Console.ReadLine();
         }
