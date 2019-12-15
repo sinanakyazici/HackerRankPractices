@@ -26,7 +26,8 @@ namespace HackerRankPractices
             // FrequencyQueries.Run();
             // BubbleSort.Run();
             // MarkAndToys.Run();
-            SortingComparator.Run();
+            // SortingComparator.Run();
+            FraudulentActivityNotifications.Run();
 
             Console.ReadLine();
         }
